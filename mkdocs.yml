@@ -88,6 +88,7 @@ markdown_extensions:
       repo: devwiki
 
 plugins:
+  - search
   - mkdocs-video
 
 # Page Tree
@@ -95,7 +96,7 @@ nav:
   - Home: index.md
   - GitHub:
     - Account Setup: github/account-setup.md
-    - GiHub Flow: github/github-flow.md
+    - GitHub Flow: github/github-flow.md
     - Security Policy: github/security-policy.md
     - Organization Setup: github/organization-setup.md
   - GitHub Copilot:
