@@ -1,66 +1,81 @@
 # :simple-progress: Progress Developer Roadmap
-## Legend
-- 🟢 Must Know
-- 🔵 Good to Know
-- 🟣 Alternative
-- ⛔ Not Recommended
 
-## Foundational Skills
-### Version Control
-- 🟢 [Git](https://git-scm.com/)
-- 🟢 [GitHub](https://github.com/)
+!!! info "Legend"
+    :green_heart: Must Know
+    :material-emoticon-excited-outline:{ .good_to_know } Good to Know
+    :material-lightning-bolt:{ .alternative } Alternative
+    :no_entry: Not Recommended
 
-### Progress OpenEdge ABL Basics
-- 🟢 Understanding the ABL syntax and structure
-- 🟢 CRUD operations with the OpenEdge database
-- 🟢 Working with procedures, functions, and triggers
-- 🟢 Understanding transaction scope and error handling
+## Version Control
 
-### Database Management
-- 🟢 OpenEdge RDBMS fundamentals
-- 🟢 Data definition, indexing, and querying
-- 🟢 Database maintenance and performance tuning
-- 🟢 SQL access in OpenEdge
+- :green_heart: [Git](https://git-scm.com/)
+- :green_heart: [GitHub](https://github.com/)
+- :material-lightning-bolt:{ .alternative } [GitLab](https://gitlab.com/)
+- :no_entry: Mercurial
+- :no_entry: SVN/Subversion
 
-### Application Development
-- 🟢 Developing desktop applications with Progress Developer Studio
-- 🔵 Web application development with OpenEdge WebSpeed
-- 🔵 Understanding Progress Application Server (PAS) for OpenEdge
+## Progress OpenEdge ABL Basics
 
-### UI Development
-- 🔵 Developing dynamic web UIs with Kendo UI
-- 🔵 Basics of REST and SOAP services in OpenEdge
-- 🟣 Mobile application development strategies with OpenEdge
+- :green_heart: Understanding the ABL syntax and structure
+- :green_heart: CRUD operations with the OpenEdge database
+- :green_heart: Working with procedures, functions, and triggers
+- :green_heart: Understanding transaction scope and error handling
 
-### Advanced Topics
-- 🔵 Integration with other systems via REST, SOAP, or JMS
-- 🔵 Working with JSON and XML for data interchange
-- 🔵 Advanced database features (Replication, Multi-tenancy)
+## Database Management
 
-### Testing and Debugging
-- 🟢 ABLUnit for unit testing ABL code
-- 🟢 Logging and error handling best practices
-- 🔵 Profiling and performance optimization
+- :green_heart: OpenEdge RDBMS fundamentals
+- :green_heart: Data definition, indexing, and querying
+- :green_heart: Database maintenance and performance tuning
+- :green_heart: SQL access in OpenEdge
 
-### Deployment and DevOps
-- 🔵 Understanding OpenEdge Management and OpenEdge Explorer
-- 🔵 Continuous integration and deployment practices
-- 🔵 Containerization strategies for OpenEdge applications
+## Application Development
 
-### Security
-- 🟢 Securing OpenEdge applications (Authentication, Authorization)
-- 🟢 Understanding OpenEdge security features (Database encryption, TLS)
+- :green_heart: Developing desktop applications with Progress Developer Studio
+- :material-emoticon-excited-outline:{ .good_to_know } Web application development with OpenEdge WebSpeed
+- :material-emoticon-excited-outline:{ .good_to_know } Understanding Progress Application Server (PAS) for OpenEdge
 
-### Modernization and Migration
-- 🔵 Strategies for modernizing legacy OpenEdge applications
-- 🔵 Migrating to newer versions of OpenEdge
-- 🔵 Cloud deployment strategies for OpenEdge applications
+## UI Development
 
-### Continuous Learning
-- 🟢 Keeping up with Progress Software updates and releases
-- 🟢 Participating in Progress communities and forums
+- :material-emoticon-excited-outline:{ .good_to_know } Developing dynamic web UIs with Kendo UI
+- :material-emoticon-excited-outline:{ .good_to_know } Basics of REST and SOAP services in OpenEdge
+- :material-lightning-bolt:{ .alternative } Mobile application development strategies with OpenEdge
+
+## Advanced Topics
+
+- :material-emoticon-excited-outline:{ .good_to_know } Integration with other systems via REST, SOAP, or JMS
+- :material-emoticon-excited-outline:{ .good_to_know } Working with JSON and XML for data interchange
+- :material-emoticon-excited-outline:{ .good_to_know } Advanced database features (Replication, Multi-tenancy)
+
+## Testing and Debugging
+
+- :green_heart: ABLUnit for unit testing ABL code
+- :green_heart: Logging and error handling best practices
+- :material-emoticon-excited-outline:{ .good_to_know } Profiling and performance optimization
+
+## Deployment and DevOps
+
+- :material-emoticon-excited-outline:{ .good_to_know } Understanding OpenEdge Management and OpenEdge Explorer
+- :material-emoticon-excited-outline:{ .good_to_know } Continuous integration and deployment practices
+- :material-emoticon-excited-outline:{ .good_to_know } Containerization strategies for OpenEdge applications
+
+## Security
+
+- :green_heart: Securing OpenEdge applications (Authentication, Authorization)
+- :green_heart: Understanding OpenEdge security features (Database encryption, TLS)
+
+## Modernization and Migration
+
+- :material-emoticon-excited-outline:{ .good_to_know } Strategies for modernizing legacy OpenEdge applications
+- :material-emoticon-excited-outline:{ .good_to_know } Migrating to newer versions of OpenEdge
+- :material-emoticon-excited-outline:{ .good_to_know } Cloud deployment strategies for OpenEdge applications
+
+## Continuous Learning
+
+- :green_heart: Keeping up with Progress Software updates and releases
+- :green_heart: Participating in Progress communities and forums
 
 ## Additional Resources
+
 - Progress Software Documentation
 - Online courses and tutorials specific to Progress OpenEdge
 - Community forums and discussions (Progress Community, Stack Overflow)

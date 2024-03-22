@@ -6,6 +6,9 @@ repo_url: https://github.com/manos-software/devwiki
 edit_uri: blob/main/docs/
 
 # Configuration
+extra_css:
+  - stylesheets/extra.css
+
 theme:
   name: material
   features:
@@ -70,6 +73,10 @@ markdown_extensions:
   - md_in_html
   - toc:
       permalink: true
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
   - pymdownx.emoji:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
       emoji_index: !!python/name:material.extensions.emoji.twemoji

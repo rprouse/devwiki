@@ -1,0 +1,19 @@
+/* This file is used to add extra styles to the documentation. */
+
+/* Icons for the developer roadmaps */
+.must_know {
+  color: #00d26a;
+}
+
+.good_to_know {
+  color: #0074ba;
+}
+
+.alternative {
+  color: #d19524;
+}
+
+.not_recommended {
+  color: #f8312f;
+}
+
