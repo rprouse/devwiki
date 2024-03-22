@@ -65,10 +65,6 @@
 - :green_heart: Documentation best practices using Markdown in comments
 - :material-emoticon-excited-outline:{ .good_to_know } Using Doc-tests for code examples in documentation
 
-## Version Control
-
-- :green_heart: Git: Basic and advanced concepts (branching, merging, rebasing)
-
 ## Advanced Topics
 
 - :green_heart: Unsafe Rust for interfacing with other languages or for low-level control

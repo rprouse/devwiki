@@ -21,10 +21,10 @@
 - :green_heart: FireMonkey (FMX) for cross-platform GUI development (Windows, macOS, iOS, Android)
 - :green_heart: Working with databases using FireDAC
 - Advanced Features:
-  - :green_heart: Generics
-  - :green_heart: Anonymous methods
-  - :green_heart: Interfaces and Exception handling
-  - :material-emoticon-excited-outline:{ .good_to_know } Multi-threading and parallel programming
+    - :green_heart: Generics
+    - :green_heart: Anonymous methods
+    - :green_heart: Interfaces and Exception handling
+    - :material-emoticon-excited-outline:{ .good_to_know } Multi-threading and parallel programming
 
 ## Integrated Development Environment (IDE)
 

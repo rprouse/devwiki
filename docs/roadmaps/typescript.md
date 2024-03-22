@@ -19,8 +19,8 @@
 ## JavaScript Basics and Advanced Concepts
 
 - :green_heart: ES6+ (ECMAScript 2015 and later)
-  - **Basic Syntax**: Variables (`let`, `const`), control flow, functions, classes.
-  - **Advanced Features**: Arrow functions, promises, async/await, destructuring, template literals, modules.
+    - **Basic Syntax**: Variables (`let`, `const`), control flow, functions, classes.
+    - **Advanced Features**: Arrow functions, promises, async/await, destructuring, template literals, modules.
 - :green_heart: Understanding of the Event Loop and Asynchronous Programming
 - :green_heart: DOM Manipulation and Browser APIs
 - :green_heart: JSON and AJAX
@@ -39,19 +39,19 @@
 ## Front-end Frameworks
 
 - :green_heart: [React](https://reactjs.org/)
-  - JSX
-  - Hooks
-  - Context API
-  - Redux for state management
+    - JSX
+    - Hooks
+    - Context API
+    - Redux for state management
 - :green_heart: [Vue.js](https://vuejs.org/)
-  - Options API
-  - Composition API
-  - Vuex for state management
+    - Options API
+    - Composition API
+    - Vuex for state management
 - :material-emoticon-excited-outline:{ .good_to_know } [Angular](https://angular.io/)
-  - Components and Modules
-  - Services and Dependency Injection
-  - RxJS for reactive programming
-  - Angular CLI
+    - Components and Modules
+    - Services and Dependency Injection
+    - RxJS for reactive programming
+    - Angular CLI
 
 ## CSS and UI Frameworks
 

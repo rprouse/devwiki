@@ -19,8 +19,8 @@
 ## Swift Basics and Advanced Concepts
 
 - :green_heart: Swift 5.x
-  - **Basic Syntax**: Constants and variables, data types, control flow, functions, and closures.
-  - **Advanced Features**: Optionals, error handling, protocols, extensions, generics, and concurrency (async/await, Combine).
+    - **Basic Syntax**: Constants and variables, data types, control flow, functions, and closures.
+    - **Advanced Features**: Optionals, error handling, protocols, extensions, generics, and concurrency (async/await, Combine).
 - :green_heart: Understanding of Swift's memory management (ARC)
 - :green_heart: Protocol-oriented programming
 
