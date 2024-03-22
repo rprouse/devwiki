@@ -12,6 +12,7 @@ With Python installed, run the following command from the command line:
 
 ```sh
 pip install mkdocs-material
+pip install mkdocs-video
 ```
 
 ## Commands

@@ -86,9 +86,16 @@ markdown_extensions:
       user: manos-software
       repo: devwiki
 
+plugins:
+  - mkdocs-video
+
 # Page Tree
 nav:
   - Home: index.md
+  - GitHub Copilot:
+    - Overview: github-copilot/overview.md
+    - VS Code: github-copilot/vscode.md
+    - Visual Studio: github-copilot/visual-studio.md
   - Developer Roadmaps:
     - Delphi: roadmaps/delphi.md
     - .NET: roadmaps/dotnet.md
@@ -99,3 +106,6 @@ nav:
     - Rust: roadmaps/rust.md
     - Swift: roadmaps/swift.md
     - TypeScript & JavaScript: roadmaps/typescript.md
+  - About:
+    - Contributing: about/contributing.md
+    - License: about/license.md
