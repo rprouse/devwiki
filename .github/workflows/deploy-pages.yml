@@ -31,6 +31,6 @@ jobs:
           restore-keys: |
             mkdocs-material-
       - name: 💾 Install Material for MkDocs
-        run: pip install mkdocs-material
+        run: pip install mkdocs-material mkdocs-video
       - name: 🚀 Deploy to GitHub Pages
         run: mkdocs gh-deploy --force
