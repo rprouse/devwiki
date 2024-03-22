@@ -1,5 +1,5 @@
 site_name: Manos Dev Wiki
-site_url: https://manos-software.github.io
+site_url: https://manos-software.github.io/devwiki/
 site_description: Information for developers working within the Manos ecosystem.
 
 repo_url: https://github.com/manos-software/devwiki
@@ -11,6 +11,7 @@ extra_css:
 
 theme:
   name: material
+  logo: assets/logo.png
   features:
     - announce.dismiss
     - content.action.edit
