@@ -92,6 +92,11 @@ plugins:
 # Page Tree
 nav:
   - Home: index.md
+  - GitHub:
+    - Account Setup: github/account-setup.md
+    - GiHub Flow: github/github-flow.md
+    - Security Policy: github/security-policy.md
+    - Organization Setup: github/organization-setup.md
   - GitHub Copilot:
     - Overview: github-copilot/overview.md
     - VS Code: github-copilot/vscode.md
