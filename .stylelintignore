@@ -1,0 +1,8 @@
+# Distribution files
+docs
+material
+src/**/*.html
+
+# Prevent stylelint from constantly complaining
+*.css
+*.ts
