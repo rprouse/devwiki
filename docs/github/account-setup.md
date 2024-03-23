@@ -5,7 +5,7 @@ They will add you to your company's organization.
 
 1. Set up an account at [https://github.com/](https://github.com/). If you
    already have a personal account, you can use it and add your work email to the account.
-2. Enable Two Factor Authentication on your GitHub account for security, 
+2. Enable Two Factor Authentication on your GitHub account for security,
    [Configuring two-factor authentication - GitHub Docs](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication)
 3. For a two factor auth app, we recommend [Authy](https://authy.com/),
    but if you are already using Google Authenticator or another app, that is fine.
@@ -17,7 +17,18 @@ They will add you to your company's organization.
 
 ## Best Practices
 
-GitHub accounts are intended to be your personal account for life
+GitHub accounts are intended to be your personal account for life. As you move
+between companies throughout your career, you will bring your account with you.
+Because of that, if you are creating a new account, it is recommended that you
+do not include the company name in your username.
+
+GitHub allows you to register multiple emails to your account. Make sure that
+your work email is added so that git commits are attributed to your account (see
+[Git Setup](git-setup.md)).
+
+GitHub notifications will go to the Primary email address set up in GitHub. It
+may be helpful to set your primary email to your work email so that you receive
+notifications from pull requests, etc.
 
 ## Further Reading
 

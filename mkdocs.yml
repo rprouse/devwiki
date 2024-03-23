@@ -101,10 +101,10 @@ nav:
   - Home: index.md
   - Git & GitHub:
     - Git Setup: github/git-setup.md
-    - Account Setup: github/account-setup.md
+    - GitHub Account Setup: github/account-setup.md
     - GitHub Flow: github/github-flow.md
-    - Security Policy: github/security-policy.md
-    - Organization Setup: github/organization-setup.md
+    - GitHub Security Policy: github/security-policy.md
+    - GitHub Organization Setup: github/organization-setup.md
   - GitHub Copilot:
     - Overview: github-copilot/overview.md
     - VS Code: github-copilot/vscode.md
