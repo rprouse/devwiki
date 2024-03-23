@@ -104,6 +104,9 @@ nav:
     - Overview: github-copilot/overview.md
     - VS Code: github-copilot/vscode.md
     - Visual Studio: github-copilot/visual-studio.md
+  - Jira:
+    - Training: jira/training.md
+    - Jira Apps: jira/apps.md
   - Developer Roadmaps:
     - Overview: roadmaps/overview.md
     - Delphi: roadmaps/delphi.md
