@@ -29,7 +29,7 @@
 
 ## Architecture
 
-- :green_heart: [SOLID](https://learn.microsoft.com/en-us/archive/msdn-magazine/2014/may/csharp-best-practices-dangers-of-violating-solid-principles-in-csharp) Principles
+- :green_heart: [SOLID](../architecture/solid.md) Principles
 - :green_heart: MVC - Model View Controller
 - :green_heart: MVVM - Model View ViewModel
 - :green_heart: [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)

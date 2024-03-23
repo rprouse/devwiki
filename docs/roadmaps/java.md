@@ -31,7 +31,7 @@
 
 ## Architecture
 
-- :green_heart: SOLID Principles
+- :green_heart: [SOLID](../architecture/solid.md) Principles
 - :green_heart: MVC - Model View Controller
 - :green_heart: [Microservices with Spring](https://spring.io/microservices)
 - :green_heart: [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
