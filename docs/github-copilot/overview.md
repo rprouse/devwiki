@@ -39,3 +39,7 @@ The context variables allow you to scope your conversation with Copilot to a fil
     - `How do I fix #errors:CompanyStats.cs?`
     - `What does #file:'GitHubService.cs':78-122 do?`
     - `/optimize #file:'GitHubService.cs':100-116`.
+
+## Further Information
+
+![type:video](https://www.youtube.com/embed/m0skYNIO3mk?si=qsiwLoXwss9-tnAG)
