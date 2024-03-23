@@ -11,6 +11,7 @@ venv
 # Build files
 build
 site
+.cache
 
 # Distribution files
 dist

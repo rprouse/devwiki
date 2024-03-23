@@ -5,6 +5,11 @@ site_description: Information for developers working within the Manos ecosystem.
 repo_url: https://github.com/manos-software/devwiki
 edit_uri: blob/main/docs/
 
+copyright: Copyright &copy; 2024 Rob Prouse
+
+extra:
+  generator: false
+
 # Configuration
 extra_css:
   - stylesheets/extra.css
