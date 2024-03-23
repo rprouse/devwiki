@@ -16,13 +16,13 @@ The purpose of these roadmaps is to provide a structured and comprehensive guide
 
     The roadmap charts a path through various skill levels, from beginner to advanced, highlighting key areas where developers should focus their efforts to grow their capabilities in a structured manner.
 
--   :octicons-tools-24:{ .lg .middle } __Tool and Framework Familiarity__
+-   :material-wrench:{ .lg .middle } __Tool and Framework Familiarity__
 
     ---
 
     By including sections on relevant tools, libraries, and frameworks, the roadmap encourages developers to become proficient in the ecosystem surrounding a language or technology, enhancing their ability to build sophisticated and modern applications.
 
--   :material-check-outline:{ .lg .middle } __Best Practices and Patterns__
+-   :material-check-bold:{ .lg .middle } __Best Practices and Patterns__
 
     ---
 

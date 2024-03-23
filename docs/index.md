@@ -9,7 +9,7 @@ knowledge, enhancing skills, and fostering innovation within our community.
 
 <div class="grid cards" markdown>
 
--   :octicons-law-24:{ .lg .middle } __Policies__
+-   :octicons-law-16:{ .lg .middle } __Policies__
 
     ---
 
@@ -64,7 +64,7 @@ insights will continually enrich this space. We encourage you to visit
 regularly, engage with the content, and stay connected with the latest in our
 development practices.
 
--   :octicons-comment-24:{ .lg .middle } __Get Involved__
+-   :material-comment:{ .lg .middle } __Get Involved__
 
     ---
 
