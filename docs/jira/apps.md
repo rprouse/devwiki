@@ -8,20 +8,30 @@ the same apps as other companies, you can be assured that they are tested and
 fit for purpose, you can draw on the experiences of other users and our IT team
 can more easily support you.
 
-## :material-timer-outline: Time Tracking
+<div class="grid cards" markdown>
 
-[Timesheets by Tempo](https://marketplace.atlassian.com/apps/6572/timesheets-by-tempo-jira-time-tracking?hosting=cloud&tab=overview)
+- :material-timer-outline:{ .lg .middle } __Time Tracking__
 
-Tempo is the market leader in automated time tracking for Jira, giving organizations real-time insight with time tracking features to control project costs and plan resources.
+    ---
 
-## :simple-handlebarsdotjs: Templates
+    [Timesheets by Tempo](https://marketplace.atlassian.com/apps/6572/timesheets-by-tempo-jira-time-tracking?hosting=cloud&tab=overview)
 
-[Issue Templates for Jira](https://marketplace.atlassian.com/apps/1211044/issue-templates-for-jira)
+    Tempo is the market leader in automated time tracking for Jira, giving organizations real-time insight with time tracking features to control project costs and plan resources.
 
-Issue Templates lets you create tasks and the whole Epic structure in just a few clicks.
+- :simple-handlebarsdotjs:{ .lg .middle } __Templates__
 
-## :material-test-tube: Test Plans
+    ---
 
-[X-Ray Test Plans](https://marketplace.atlassian.com/apps/1211769/xray-test-management-for-jira)
+    [Issue Templates for Jira](https://marketplace.atlassian.com/apps/1211044/issue-templates-for-jira)
 
-Native Test Management. Built for every member of your team to plan, test, track and release great software
+    Issue Templates lets you create tasks and the whole Epic structure in just a few clicks.
+
+- :material-test-tube:{ .lg .middle } __Test Plans__
+
+    ---
+
+    [X-Ray Test Plans](https://marketplace.atlassian.com/apps/1211769/xray-test-management-for-jira)
+
+    Native Test Management. Built for every member of your team to plan, test, track and release great software
+
+</div>
