@@ -1,4 +1,4 @@
-# GitHub Security Policy
+# :simple-github: GitHub Security Policy
 
 ## Enable two-factor authentication (2FA)
 

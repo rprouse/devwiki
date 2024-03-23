@@ -1,4 +1,4 @@
-# MIT License
+# :material-license: MIT License
 
 Copyright 2024 Rob Prouse
 

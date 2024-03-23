@@ -1,4 +1,4 @@
-# GitHub Copilot Overview
+# :material-robot-outline: GitHub Copilot Overview
 
 ## Keyboard Shortcuts
 

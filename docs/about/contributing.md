@@ -1,4 +1,4 @@
-# Contributing to the Manos Dev Wiki
+# :material-note-edit: Contributing to the Manos Dev Wiki
 
 You are invited to contribute 💖 to this guide by opening issues and
 submitting pull requests!

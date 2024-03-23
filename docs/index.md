@@ -1,11 +1,11 @@
-# Welcome to Our Development Wiki
+# :material-robot-happy-outline: Welcome to Our Development Wiki
 
 Welcome to the heart of our collaborative knowledge space! This Development Wiki
 is designed as a comprehensive repository tailored for our development teams.
 It's not just a library of documents but a living, breathing hub for sharing
 knowledge, enhancing skills, and fostering innovation within our community.
 
-## What You'll Find Here
+## :octicons-search-24: What You'll Find Here
 
 ### Policies
 

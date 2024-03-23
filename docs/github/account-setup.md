@@ -1,6 +1,7 @@
-# GitHub Account Setup
+# :simple-github: GitHub Account Setup
 
-Please create a GitHub user and send your username to me. I will add you to the organization.
+Please create a GitHub user and send your username to your GitHub administrator.
+They will add you to your company's organization.
 
 1. Set up an account at [https://github.com/](https://github.com/). If you
    already have a personal account, you can use it and add your work email to the account.
@@ -13,3 +14,13 @@ Please create a GitHub user and send your username to me. I will add you to th
 5. Send your username, not your email to your GitHub admin so they can invite
    you to the organization.
 6. You will need to check the email attached to your account and accept the invite.
+
+## Best Practices
+
+GitHub accounts are intended to be your personal account for life
+
+## Further Reading
+
+- [Creating an account on GitHub](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github)
+- [Setting up your profile](https://docs.github.com/en/get-started/start-your-journey/setting-up-your-profile)
+- [GitHub Skills](https://skills.github.com/)

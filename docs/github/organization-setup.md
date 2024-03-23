@@ -1,4 +1,4 @@
-# GitHub Organization Setup
+# :simple-github: GitHub Organization Setup
 
 ## Teams
 

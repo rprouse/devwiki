@@ -1,4 +1,4 @@
-# GitHub Copilot in Visual Studio
+# :simple-visualstudio: GitHub Copilot in Visual Studio
 
 ## Installation
 

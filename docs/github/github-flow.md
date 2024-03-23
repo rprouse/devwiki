@@ -1,4 +1,4 @@
-# GitHub Flow
+# :simple-github: GitHub Flow
 
 The GitHub Flow is a lightweight, branch-based workflow that supports teams and
 projects where deployments are made regularly. This method is designed to be
@@ -126,3 +126,9 @@ git pull
 The GitHub Flow offers a simple yet effective way to manage development,
 encouraging collaboration and streamlining the process of getting changes into
 production.
+
+## Further Reading
+
+- [GitHub Flow](https://githubflow.github.io/)
+- [GitHub Flow - GitHub Docs](https://docs.github.com/en/get-started/using-github/github-flow)
+- [GitHub Training Manual](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class)

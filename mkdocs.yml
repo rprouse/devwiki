@@ -94,7 +94,8 @@ plugins:
 # Page Tree
 nav:
   - Home: index.md
-  - GitHub:
+  - Git & GitHub:
+    - Git Setup: github/git-setup.md
     - Account Setup: github/account-setup.md
     - GitHub Flow: github/github-flow.md
     - Security Policy: github/security-policy.md
@@ -104,6 +105,7 @@ nav:
     - VS Code: github-copilot/vscode.md
     - Visual Studio: github-copilot/visual-studio.md
   - Developer Roadmaps:
+    - Overview: roadmaps/overview.md
     - Delphi: roadmaps/delphi.md
     - .NET: roadmaps/dotnet.md
     - Java: roadmaps/java.md
