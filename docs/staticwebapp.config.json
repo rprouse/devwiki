@@ -1,0 +1,34 @@
+{
+  "routes": [
+    {
+      "path": "/*",
+      "allowedRoles": [ "Authenticated" ]
+    },
+    {
+      "route": "/.auth/login/github",
+      "statusCode": 404
+    },
+    {
+      "route": "/.auth/login/twitter",
+      "statusCode": 404
+    },
+    {
+      "route": "/.auth/login/facebook",
+      "statusCode": 404
+    },
+    {
+      "route": "/.auth/login/apple",
+      "statusCode": 404
+    },
+    {
+      "route": "/.auth/login/twitter",
+      "statusCode": 404
+    }
+  ],
+  "responseOverrides": {
+    "401": {
+      "statusCode": 302,
+      "redirect": "/.auth/login/aad"
+    }
+  }
+}
